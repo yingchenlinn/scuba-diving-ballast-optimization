@@ -69,6 +69,17 @@ The model is based on simplified assumptions and published reference data rather
 
 [View the Full Mathematical Modeling Report](Scuba_Diving_Proposal.pdf)
 
+
+## Python Implementation
+
+The computational analysis is available in two Jupyter Notebooks:
+
+- [Stage 3: Minimum Ballast Optimization](stage3_ballast_optimization.ipynb)
+- [Stage 4: Sensitivity Analysis](stage4_sensitivity_analysis.ipynb)
+
+The notebooks reproduce the numerical calculations, optimization results, and sensitivity analyses presented in the full report.
+
+
 ## Author
 
 Yingchen Lin
