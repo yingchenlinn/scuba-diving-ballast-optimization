@@ -60,14 +60,14 @@ Wetsuit compression and dive depth are particularly important for determining th
 - Constrained Optimization
 - Sensitivity Analysis
 - Python-Based Numerical Evaluation
-
+- 
 ## Limitations
 
 The model is based on simplified assumptions and published reference data rather than diver-specific measurements. It does not establish operational dive safety or provide validated weighting recommendations.
 
 ## Full Report
 
-The complete report includes mathematical derivations, numerical simulations, sensitivity analysis, figures, and references.
+[View the Full Mathematical Modeling Report](Scuba_Diving_Proposal.pdf)
 
 ## Author
 
