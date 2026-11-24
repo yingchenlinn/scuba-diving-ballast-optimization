@@ -67,7 +67,7 @@ The model is based on simplified assumptions and published reference data rather
 
 ## Full Report
 
-[View the Full Mathematical Modeling Report](Scuba_Diving_Fianl_Report.pdf)
+[View the Full Mathematical Modeling Report](Scuba_Diving_Final_Report.pdf)
 
 
 ## Python Implementation
